@@ -1,5 +1,5 @@
 
-# Python Network Packet Sniffer
+# Network Packet Sniffer
 
 ## Overview
 This Python Network Packet Sniffer, authored by thegreytangent, is a lightweight tool for capturing and analyzing network traffic. It offers a user-friendly interface and is suitable for network administrators, security professionals, and developers.
